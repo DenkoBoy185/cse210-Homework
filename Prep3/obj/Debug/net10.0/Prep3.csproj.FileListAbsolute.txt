@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\bin\Debug\net10.0\Prep3.exe
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\bin\Debug\net10.0\Prep3.deps.json
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\bin\Debug\net10.0\Prep3.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\bin\Debug\net10.0\Prep3.dll
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\bin\Debug\net10.0\Prep3.pdb
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.dll
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\refint\Prep3.dll
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.pdb
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\Prep3.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Desktop\CSE210\Prep3\obj\Debug\net10.0\ref\Prep3.dll
